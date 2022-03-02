@@ -1,8 +1,6 @@
-# Exercise-03d-Shaders
+# 03-Juicy-Match-3
 
-Exercise for MSCH-C220
-
-Adding several shaders and a WorldEnvironment to a simple match-3 game.
+Project for MSCH-C220
 
 ## To play
 
